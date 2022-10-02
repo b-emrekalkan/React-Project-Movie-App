@@ -1,9 +1,9 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+# React-Project : Movie App
 
-# Project-005 : Movie App (RC-05)
-
+## GO TO NETLIFY ➡ https://react-project-movie-app.netlify.app/
 ## Description
+
+<p><img align="center" alt="gif" src="./src/movie_app.gif" width="500" height="320" /></p>
 
 Project aims to create a Movie App.
 
