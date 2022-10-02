@@ -1,9 +1,11 @@
 # React-Project : Movie App
 
 ## GO TO NETLIFY ➡ https://react-project-movie-app.netlify.app/
-## Description
 
 <p><img align="center" alt="gif" src="./src/movie_app.gif" width="500" height="320" /></p>
+
+
+## Description
 
 Project aims to create a Movie App.
 
